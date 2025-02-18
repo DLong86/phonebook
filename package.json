@@ -12,8 +12,17 @@
 	"license": "ISC",
 	"dependencies": {
 		"cors": "^2.8.5",
+		"dotenv": "^16.4.7",
 		"express": "^4.21.1",
+		"mongoose": "^8.9.3",
 		"morgan": "^1.10.0",
 		"nodemon": "^3.1.7"
+	},
+	"devDependencies": {
+		"@eslint/js": "^9.20.0",
+		"@stylistic/eslint-plugin-js": "^3.1.0",
+		"eslint": "^9.20.1",
+		"eslint-plugin-react": "^7.37.4",
+		"globals": "^15.14.0"
 	}
 }
